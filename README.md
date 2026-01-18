@@ -7,7 +7,9 @@
 Модуль предназначен для постановки и контроля задач в рамках корпоративной системы.
 
 ## Быстрый старт
-* [Функциональные требования](requirements/Functional%20req%20%23%20ПР%20_1.docx)
+Документация модуля:
+- 📄 [Функциональные требования](https://github.com/IvanPlotnikovQA9/University/blob/main/Task-manager-docs/requirements/Functional%20req%20%23%20ПР%20_1.docx)
+[Link Text](https://example.com)
 * [API документация](api/openapi.yml)
 * [Руководство пользователя](user-guide/getting-started.md)
 
